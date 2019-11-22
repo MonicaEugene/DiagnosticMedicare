@@ -1,0 +1,14 @@
+C:\Users\802469\Desktop\Project\VisualStudio\PatientTestResult\PatientTestResult\bin\Debug\netcoreapp2.1\PatientTestResult.deps.json
+C:\Users\802469\Desktop\Project\VisualStudio\PatientTestResult\PatientTestResult\bin\Debug\netcoreapp2.1\PatientTestResult.runtimeconfig.json
+C:\Users\802469\Desktop\Project\VisualStudio\PatientTestResult\PatientTestResult\bin\Debug\netcoreapp2.1\PatientTestResult.runtimeconfig.dev.json
+C:\Users\802469\Desktop\Project\VisualStudio\PatientTestResult\PatientTestResult\bin\Debug\netcoreapp2.1\PatientTestResult.dll
+C:\Users\802469\Desktop\Project\VisualStudio\PatientTestResult\PatientTestResult\bin\Debug\netcoreapp2.1\PatientTestResult.pdb
+C:\Users\802469\Desktop\Project\VisualStudio\PatientTestResult\PatientTestResult\obj\Debug\netcoreapp2.1\PatientTestResult.csprojAssemblyReference.cache
+C:\Users\802469\Desktop\Project\VisualStudio\PatientTestResult\PatientTestResult\obj\Debug\netcoreapp2.1\PatientTestResult.csproj.CoreCompileInputs.cache
+C:\Users\802469\Desktop\Project\VisualStudio\PatientTestResult\PatientTestResult\obj\Debug\netcoreapp2.1\PatientTestResult.RazorAssemblyInfo.cache
+C:\Users\802469\Desktop\Project\VisualStudio\PatientTestResult\PatientTestResult\obj\Debug\netcoreapp2.1\PatientTestResult.RazorAssemblyInfo.cs
+C:\Users\802469\Desktop\Project\VisualStudio\PatientTestResult\PatientTestResult\obj\Debug\netcoreapp2.1\PatientTestResult.AssemblyInfoInputs.cache
+C:\Users\802469\Desktop\Project\VisualStudio\PatientTestResult\PatientTestResult\obj\Debug\netcoreapp2.1\PatientTestResult.AssemblyInfo.cs
+C:\Users\802469\Desktop\Project\VisualStudio\PatientTestResult\PatientTestResult\obj\Debug\netcoreapp2.1\PatientTestResult.RazorTargetAssemblyInfo.cache
+C:\Users\802469\Desktop\Project\VisualStudio\PatientTestResult\PatientTestResult\obj\Debug\netcoreapp2.1\PatientTestResult.dll
+C:\Users\802469\Desktop\Project\VisualStudio\PatientTestResult\PatientTestResult\obj\Debug\netcoreapp2.1\PatientTestResult.pdb

@@ -1,0 +1,14 @@
+C:\Users\802469\Desktop\Project\VisualStudio\ProjectAPI1\ProjectAPI1\bin\Debug\netcoreapp2.1\ProjectAPI1.deps.json
+C:\Users\802469\Desktop\Project\VisualStudio\ProjectAPI1\ProjectAPI1\bin\Debug\netcoreapp2.1\ProjectAPI1.runtimeconfig.json
+C:\Users\802469\Desktop\Project\VisualStudio\ProjectAPI1\ProjectAPI1\bin\Debug\netcoreapp2.1\ProjectAPI1.runtimeconfig.dev.json
+C:\Users\802469\Desktop\Project\VisualStudio\ProjectAPI1\ProjectAPI1\bin\Debug\netcoreapp2.1\ProjectAPI1.dll
+C:\Users\802469\Desktop\Project\VisualStudio\ProjectAPI1\ProjectAPI1\bin\Debug\netcoreapp2.1\ProjectAPI1.pdb
+C:\Users\802469\Desktop\Project\VisualStudio\ProjectAPI1\ProjectAPI1\obj\Debug\netcoreapp2.1\ProjectAPI1.csprojAssemblyReference.cache
+C:\Users\802469\Desktop\Project\VisualStudio\ProjectAPI1\ProjectAPI1\obj\Debug\netcoreapp2.1\ProjectAPI1.csproj.CoreCompileInputs.cache
+C:\Users\802469\Desktop\Project\VisualStudio\ProjectAPI1\ProjectAPI1\obj\Debug\netcoreapp2.1\ProjectAPI1.RazorAssemblyInfo.cache
+C:\Users\802469\Desktop\Project\VisualStudio\ProjectAPI1\ProjectAPI1\obj\Debug\netcoreapp2.1\ProjectAPI1.RazorAssemblyInfo.cs
+C:\Users\802469\Desktop\Project\VisualStudio\ProjectAPI1\ProjectAPI1\obj\Debug\netcoreapp2.1\ProjectAPI1.AssemblyInfoInputs.cache
+C:\Users\802469\Desktop\Project\VisualStudio\ProjectAPI1\ProjectAPI1\obj\Debug\netcoreapp2.1\ProjectAPI1.AssemblyInfo.cs
+C:\Users\802469\Desktop\Project\VisualStudio\ProjectAPI1\ProjectAPI1\obj\Debug\netcoreapp2.1\ProjectAPI1.RazorTargetAssemblyInfo.cache
+C:\Users\802469\Desktop\Project\VisualStudio\ProjectAPI1\ProjectAPI1\obj\Debug\netcoreapp2.1\ProjectAPI1.dll
+C:\Users\802469\Desktop\Project\VisualStudio\ProjectAPI1\ProjectAPI1\obj\Debug\netcoreapp2.1\ProjectAPI1.pdb
